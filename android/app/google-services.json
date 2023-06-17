@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "752265807355",
+    "project_id": "whatsappchat-14ae9",
+    "storage_bucket": "whatsappchat-14ae9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752265807355:android:5d03d2d72c2ddb3178775e",
+        "android_client_info": {
+          "package_name": "com.example.personal_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752265807355-1ui9d2ant4n83oc1jup55vf4tba567q5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtXb9RhPtC3M_2BgRp_Toljv7TQcDDzJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752265807355-1ui9d2ant4n83oc1jup55vf4tba567q5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
